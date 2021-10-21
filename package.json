@@ -1,0 +1,21 @@
+{
+  "name": "My-music-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.6.0",
+    "aoi.js": "^4.5.0",
+    "ffmpeg-static": "^4.4.0",
+    "node-opus": "^0.3.3",
+    "opusscript": "0.0.8",
+    "tweetnacl": "^1.0.3",
+    "ytdl-core": "^4.9.1"
+  }
+}
