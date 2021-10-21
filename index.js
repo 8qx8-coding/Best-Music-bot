@@ -1,19 +1,4 @@
-/**
 
- * Advanced Music Code (aoi.js | ver. 4.5.0 - 5.0.0)
-   server.js / non-command handler
-
-   Require:
-    "opusscript": "^0.0.8"
-    "node-opus": "^0.3.3"
-    "@discordjs/opus": "^0.5.3"
-    "ffmpeg-static": "^4.4.0"
-    "ytdl-core": "^4.9.1"
-    "tweetnacl": "^1.0.3"
-
-   (no credit on all commands) | list update: https://pastebin.com/r2cnXCXt
-   Last update October 08 2021 - 23.26 WIB (GMT +7)
- */
 
 //You can delete it, if already have it//
 const Aoijs = require("aoi.js")
