@@ -1,0 +1,1 @@
+Hello im 8qx8 the developer of the music bot please give me credits or show support by inviting my bot [Invite Me](https://discord.com/api/oauth2/authorize?client_id=900573648958652420&permissions=8&scope=bot%20applications.commands)
